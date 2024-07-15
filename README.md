@@ -1,6 +1,7 @@
 # FVTTS : Face-based Voice Synthesis for Text-to-Speech
 
 This repository is the official implementation of FVTTS.
+Our demo page is released in https://dxlabskku.github.io/FVTTS/
 
 ## Preprocessing
 **1. Prepare your data into `'data'`. Build your dataset by setting up the following directory structure:**
